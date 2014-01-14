@@ -2,25 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824dab0d-eb77-417e-9778-cd3b7d15b571" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/test_method/public/page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/test_method/run.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/route/run.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/npm-debug.log" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/App.js" afterPath="$PROJECT_DIR$/lib/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/static.js" afterPath="$PROJECT_DIR$/lib/static.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="stuwebfk.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1389607628460" ignored="false" />
+    <file path="/Dummy.txt" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1389691415560" ignored="false" />
     <file path="/httpServer.js" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1389365982579" ignored="false" />
     <file path="/index.html" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1388395472793" ignored="false" />
     <file path="/b.html" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1389364392415" ignored="false" />
     <file path="/a.txt" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1389364437370" ignored="false" />
     <file path="/static.js" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1389621750791" ignored="false" />
-    <file path="/App.js" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1389621386235" ignored="false" />
+    <file path="/App.js" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1389694838270" ignored="false" />
     <file path="/index.js" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1389368575673" ignored="false" />
-    <file path="/run.js" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1389623721876" ignored="false" />
+    <file path="/run.js" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1389695374481" ignored="false" />
     <file path="/middle02.js" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1389437999919" ignored="false" />
     <file path="/page.html" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1389622409120" ignored="false" />
+    <file path="/package.json" changelist="824dab0d-eb77-417e-9778-cd3b7d15b571" time="1389627615097" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +44,19 @@
       <file leaf-file-name="App.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="56" selection-start="1165" selection-end="1165" vertical-scroll-proportion="0.0">
+            <state line="81" column="72" selection-start="1800" selection-end="1800" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example/route/run.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="57" selection-start="407" selection-end="407" vertical-scroll-proportion="0.66568047">
+              <folding>
+                <element signature="e#0#159#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,7 +100,7 @@
       <file leaf-file-name="static.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/static.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="67" selection-start="714" selection-end="714" vertical-scroll-proportion="0.0">
+            <state line="39" column="45" selection-start="773" selection-end="773" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -97,18 +109,16 @@
       <file leaf-file-name="run.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/test_method/run.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="31" selection-start="282" selection-end="291" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#160#0" expanded="false" />
-              </folding>
+            <state line="16" column="57" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="page.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/test_method/public/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="86" selection-start="301" selection-end="301" vertical-scroll-proportion="0.6210191">
+            <state line="13" column="45" selection-start="301" selection-end="301" vertical-scroll-proportion="-8.125">
               <folding />
             </state>
           </provider>
@@ -140,10 +150,12 @@
         <option value="$PROJECT_DIR$/example/show_middle/middle02.js" />
         <option value="$PROJECT_DIR$/example/show_middle/middle01.js" />
         <option value="$PROJECT_DIR$/example/show_middle/run.js" />
-        <option value="$PROJECT_DIR$/lib/App.js" />
         <option value="$PROJECT_DIR$/example/test_method/public/page.html" />
         <option value="$PROJECT_DIR$/example/test_method/run.js" />
         <option value="$PROJECT_DIR$/lib/static.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/lib/App.js" />
+        <option value="$PROJECT_DIR$/example/route/run.js" />
       </list>
     </option>
   </component>
@@ -178,6 +190,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -241,14 +254,6 @@
               <option name="myItemId" value="example" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_method" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -263,25 +268,28 @@
               <option name="myItemId" value="example" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="route" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example/route" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/example/test_method" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager" selected="Node.js.test_method">
+  <component name="RunManager" selected="Node.js.routle">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -312,10 +320,16 @@
       <ConfigurationWrapper RunnerId="NodeJS.debug" />
       <method />
     </configuration>
-    <list size="3">
+    <configuration default="false" name="routle" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="run.js" node-parameters="/usr/local/lib/node_modules/supervisor/lib/cli-wrapper.js --exec         /usr/local/bin/node --no-restart-on exit" working-dir="$PROJECT_DIR$/example/route">
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <method />
+    </configuration>
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Node.js.httpserver" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.show_middle" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.test_method" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.routle" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -349,13 +363,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1319" height="728" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24845679" sideWeight="0.6" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -448,18 +462,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/example/day01/httpServer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="38" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/day01/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="115" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example/day01/public/b.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="27" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" />
@@ -520,33 +522,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/test_method/run.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="31" selection-start="282" selection-end="291" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#160#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/static.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="67" selection-start="714" selection-end="714" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="56" selection-start="1165" selection-end="1165" vertical-scroll-proportion="0.0">
+        <state line="20" column="43" selection-start="430" selection-end="430" vertical-scroll-proportion="0.53763443">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example/test_method/public/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="86" selection-start="301" selection-end="301" vertical-scroll-proportion="0.6210191">
+        <state line="13" column="45" selection-start="301" selection-end="301" vertical-scroll-proportion="-8.125">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/static.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="45" selection-start="773" selection-end="773" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="72" selection-start="1800" selection-end="1800" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/test_method/run.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="57" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/route/run.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="57" selection-start="407" selection-end="407" vertical-scroll-proportion="0.66568047">
+          <folding>
+            <element signature="e#0#159#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
