@@ -15,9 +15,9 @@ app.get("/about",function(req,res)
     res.end();
 }) ;
 
-app.get("/contact",function(req,res)
+app.get("/contact/*/:id/ok",function(req,res)
 {
-    res.write("contact me use QQ 777777");
+    res.write("contact me use QQ 66666");
     res.end();
 })   ;
 
