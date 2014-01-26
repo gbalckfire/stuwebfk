@@ -7,18 +7,24 @@
  */
 
 var App = require("../..").App;
+var query = require("../../").query;
 var app = new App;
 
-app.get("/about",function(req,res)
+//app.use(query);
+
+app.get("/about/:name/:age",function(req,res)
 {
-    res.write("my name is leo");
+    res.write("my name is"+req.params.name+"\n");
+    res.write("my age is "+req.params.age+"\n");
     res.end();
 }) ;
 
-app.get("/contact/*/:id/ok",function(req,res)
-{
-    res.write("contact me use QQ 66666");
-    res.end();
-})   ;
+
+//app.get("/contact/*/:id/ok",function(req,res)
+//{
+//    res.write("contact me use QQ 66666");
+//    res.end();
+//})   ;
+
 
 app.listen(3000);

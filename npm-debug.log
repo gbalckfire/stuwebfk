@@ -19,23 +19,23 @@
 7 verbose parsed url   href: '.' }
 8 silly lockFile 3a52ce78- .
 9 verbose lock . /Users/sskywing/.npm/3a52ce78-.lock
-10 verbose tar pack [ '/var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/tmp.tgz',
+10 verbose tar pack [ '/var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/tmp.tgz',
 10 verbose tar pack   '.' ]
-11 verbose tarball /var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/tmp.tgz
+11 verbose tarball /var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/tmp.tgz
 12 verbose folder .
 13 silly lockFile 1f1177db-tar tar://.
 14 verbose lock tar://. /Users/sskywing/.npm/1f1177db-tar.lock
-15 silly lockFile 88fa46bd-00884-0-6607060520909727-tmp-tgz tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/tmp.tgz
-16 verbose lock tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/tmp.tgz /Users/sskywing/.npm/88fa46bd-00884-0-6607060520909727-tmp-tgz.lock
+15 silly lockFile d4443f23-3230-0-33408282860182226-tmp-tgz tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/tmp.tgz
+16 verbose lock tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/tmp.tgz /Users/sskywing/.npm/d4443f23-3230-0-33408282860182226-tmp-tgz.lock
 17 silly lockFile 1f1177db-tar tar://.
 18 silly lockFile 1f1177db-tar tar://.
-19 silly lockFile 88fa46bd-00884-0-6607060520909727-tmp-tgz tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/tmp.tgz
-20 silly lockFile 88fa46bd-00884-0-6607060520909727-tmp-tgz tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/tmp.tgz
-21 verbose tar unpack /var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/tmp.tgz
-22 silly lockFile 7518e532-00884-0-6607060520909727-package tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/package
-23 verbose lock tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/package /Users/sskywing/.npm/7518e532-00884-0-6607060520909727-package.lock
-24 silly lockFile 88fa46bd-00884-0-6607060520909727-tmp-tgz tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/tmp.tgz
-25 verbose lock tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/tmp.tgz /Users/sskywing/.npm/88fa46bd-00884-0-6607060520909727-tmp-tgz.lock
+19 silly lockFile d4443f23-3230-0-33408282860182226-tmp-tgz tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/tmp.tgz
+20 silly lockFile d4443f23-3230-0-33408282860182226-tmp-tgz tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/tmp.tgz
+21 verbose tar unpack /var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/tmp.tgz
+22 silly lockFile d6124346-3230-0-33408282860182226-package tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/package
+23 verbose lock tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/package /Users/sskywing/.npm/d6124346-3230-0-33408282860182226-package.lock
+24 silly lockFile d4443f23-3230-0-33408282860182226-tmp-tgz tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/tmp.tgz
+25 verbose lock tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/tmp.tgz /Users/sskywing/.npm/d4443f23-3230-0-33408282860182226-tmp-tgz.lock
 26 silly gunzTarPerm modes [ '755', '644' ]
 27 silly gunzTarPerm extractEntry package.json
 28 silly gunzTarPerm extractEntry index.js
@@ -58,87 +58,91 @@
 45 silly gunzTarPerm extractEntry example/test_method/run.js
 46 silly gunzTarPerm extractEntry example/test_method/public/page.html
 47 silly gunzTarPerm extractEntry lib/App.js
-48 silly gunzTarPerm extractEntry lib/pathRegexp.js
-49 silly gunzTarPerm extractEntry lib/static.js
-50 silly lockFile 7518e532-00884-0-6607060520909727-package tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/package
-51 silly lockFile 7518e532-00884-0-6607060520909727-package tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/package
-52 silly lockFile 88fa46bd-00884-0-6607060520909727-tmp-tgz tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/tmp.tgz
-53 silly lockFile 88fa46bd-00884-0-6607060520909727-tmp-tgz tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/tmp.tgz
-54 verbose tar pack [ '/Users/sskywing/.npm/stuwebfk/0.0.4/package.tgz',
-54 verbose tar pack   '/var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/package' ]
-55 verbose tarball /Users/sskywing/.npm/stuwebfk/0.0.4/package.tgz
-56 verbose folder /var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/package
-57 silly lockFile 7518e532-00884-0-6607060520909727-package tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/package
-58 verbose lock tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/package /Users/sskywing/.npm/7518e532-00884-0-6607060520909727-package.lock
-59 silly lockFile 69389265-g-npm-stuwebfk-0-0-4-package-tgz tar:///Users/sskywing/.npm/stuwebfk/0.0.4/package.tgz
-60 verbose lock tar:///Users/sskywing/.npm/stuwebfk/0.0.4/package.tgz /Users/sskywing/.npm/69389265-g-npm-stuwebfk-0-0-4-package-tgz.lock
-61 silly lockFile 7518e532-00884-0-6607060520909727-package tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/package
-62 silly lockFile 7518e532-00884-0-6607060520909727-package tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-8987-3o4o9Rge/1390140100884-0.6607060520909727/package
-63 silly lockFile 69389265-g-npm-stuwebfk-0-0-4-package-tgz tar:///Users/sskywing/.npm/stuwebfk/0.0.4/package.tgz
-64 silly lockFile 69389265-g-npm-stuwebfk-0-0-4-package-tgz tar:///Users/sskywing/.npm/stuwebfk/0.0.4/package.tgz
-65 silly lockFile 7cc71165-ywing-npm-stuwebfk-0-0-4-package /Users/sskywing/.npm/stuwebfk/0.0.4/package
-66 verbose lock /Users/sskywing/.npm/stuwebfk/0.0.4/package /Users/sskywing/.npm/7cc71165-ywing-npm-stuwebfk-0-0-4-package.lock
-67 silly lockFile 7cc71165-ywing-npm-stuwebfk-0-0-4-package /Users/sskywing/.npm/stuwebfk/0.0.4/package
-68 silly lockFile 7cc71165-ywing-npm-stuwebfk-0-0-4-package /Users/sskywing/.npm/stuwebfk/0.0.4/package
-69 verbose tar unpack /Users/sskywing/.npm/stuwebfk/0.0.4/package.tgz
-70 silly lockFile 30ebf9fc-ywing-npm-stuwebfk-0-0-4-package tar:///Users/sskywing/.npm/stuwebfk/0.0.4/package
-71 verbose lock tar:///Users/sskywing/.npm/stuwebfk/0.0.4/package /Users/sskywing/.npm/30ebf9fc-ywing-npm-stuwebfk-0-0-4-package.lock
-72 silly lockFile 69389265-g-npm-stuwebfk-0-0-4-package-tgz tar:///Users/sskywing/.npm/stuwebfk/0.0.4/package.tgz
-73 verbose lock tar:///Users/sskywing/.npm/stuwebfk/0.0.4/package.tgz /Users/sskywing/.npm/69389265-g-npm-stuwebfk-0-0-4-package-tgz.lock
-74 silly gunzTarPerm modes [ '755', '644' ]
-75 silly gunzTarPerm extractEntry package.json
-76 silly gunzTarPerm extractEntry index.js
-77 silly gunzTarPerm extractEntry .idea/.name
-78 silly gunzTarPerm extractEntry .idea/encodings.xml
-79 silly gunzTarPerm extractEntry .idea/misc.xml
-80 silly gunzTarPerm extractEntry .idea/modules.xml
-81 silly gunzTarPerm extractEntry .idea/scopes/scope_settings.xml
-82 silly gunzTarPerm extractEntry .idea/stuwebfk.iml
-83 silly gunzTarPerm extractEntry .idea/vcs.xml
-84 silly gunzTarPerm extractEntry .idea/workspace.xml
-85 silly gunzTarPerm extractEntry example/day01/httpServer.js
-86 silly gunzTarPerm extractEntry example/day01/public/a.txt
-87 silly gunzTarPerm extractEntry example/day01/public/b.html
-88 silly gunzTarPerm extractEntry example/day01/public/index.html
-89 silly gunzTarPerm extractEntry example/route/run.js
-90 silly gunzTarPerm extractEntry example/show_middle/middle01.js
-91 silly gunzTarPerm extractEntry example/show_middle/middle02.js
-92 silly gunzTarPerm extractEntry example/show_middle/run.js
-93 silly gunzTarPerm extractEntry example/test_method/run.js
-94 silly gunzTarPerm extractEntry example/test_method/public/page.html
-95 silly gunzTarPerm extractEntry lib/App.js
-96 silly gunzTarPerm extractEntry lib/pathRegexp.js
-97 silly gunzTarPerm extractEntry lib/static.js
-98 silly lockFile 30ebf9fc-ywing-npm-stuwebfk-0-0-4-package tar:///Users/sskywing/.npm/stuwebfk/0.0.4/package
-99 silly lockFile 30ebf9fc-ywing-npm-stuwebfk-0-0-4-package tar:///Users/sskywing/.npm/stuwebfk/0.0.4/package
-100 silly lockFile 69389265-g-npm-stuwebfk-0-0-4-package-tgz tar:///Users/sskywing/.npm/stuwebfk/0.0.4/package.tgz
-101 silly lockFile 69389265-g-npm-stuwebfk-0-0-4-package-tgz tar:///Users/sskywing/.npm/stuwebfk/0.0.4/package.tgz
-102 verbose chmod /Users/sskywing/.npm/stuwebfk/0.0.4/package.tgz 644
-103 verbose chown /Users/sskywing/.npm/stuwebfk/0.0.4/package.tgz [ 501, 20 ]
-104 silly lockFile 3a52ce78- .
-105 silly lockFile 3a52ce78- .
-106 silly publish { name: 'stuwebfk',
-106 silly publish   version: '0.0.4',
-106 silly publish   dependenciea: {},
-106 silly publish   description: 'test_method',
-106 silly publish   main: 'index.js',
-106 silly publish   directories: { example: 'example' },
-106 silly publish   scripts: { test: 'echo "Error: no test specified" && exit 1' },
-106 silly publish   repository: { type: 'git', url: 'https://github.com/gbalckfire/stuwebfk' },
-106 silly publish   keywords: [ 'stuwebfk' ],
-106 silly publish   author: { name: 'gaohong' },
-106 silly publish   license: 'BSD-2-Clause',
-106 silly publish   bugs: { url: 'https://github.com/gbalckfire/stuwebfk/issues' },
-106 silly publish   readme: 'ERROR: No README data found!',
-106 silly publish   _id: 'stuwebfk@0.0.4',
-106 silly publish   dist: { shasum: 'a3b156debbb4bc90c94873ecd286bdacf9e90e5a' },
-106 silly publish   _from: '.' }
-107 error need auth auth and email required for publishing
-107 error need auth You need to authorize this machine using `npm adduser`
-108 error System Darwin 13.0.0
-109 error command "node" "/usr/local/bin/npm" "publish"
-110 error cwd /Users/sskywing/work_Dir/stuwebfk
-111 error node -v v0.10.20
-112 error npm -v 1.3.11
-113 error code ENEEDAUTH
-114 verbose exit [ 1, true ]
+48 silly gunzTarPerm extractEntry lib/params.js
+49 silly gunzTarPerm extractEntry lib/pathRegexp.js
+50 silly gunzTarPerm extractEntry lib/query.js
+51 silly gunzTarPerm extractEntry lib/static.js
+52 silly lockFile d6124346-3230-0-33408282860182226-package tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/package
+53 silly lockFile d6124346-3230-0-33408282860182226-package tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/package
+54 silly lockFile d4443f23-3230-0-33408282860182226-tmp-tgz tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/tmp.tgz
+55 silly lockFile d4443f23-3230-0-33408282860182226-tmp-tgz tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/tmp.tgz
+56 verbose tar pack [ '/Users/sskywing/.npm/stuwebfk/0.0.5/package.tgz',
+56 verbose tar pack   '/var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/package' ]
+57 verbose tarball /Users/sskywing/.npm/stuwebfk/0.0.5/package.tgz
+58 verbose folder /var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/package
+59 silly lockFile d6124346-3230-0-33408282860182226-package tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/package
+60 verbose lock tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/package /Users/sskywing/.npm/d6124346-3230-0-33408282860182226-package.lock
+61 silly lockFile caa88ea1-g-npm-stuwebfk-0-0-5-package-tgz tar:///Users/sskywing/.npm/stuwebfk/0.0.5/package.tgz
+62 verbose lock tar:///Users/sskywing/.npm/stuwebfk/0.0.5/package.tgz /Users/sskywing/.npm/caa88ea1-g-npm-stuwebfk-0-0-5-package-tgz.lock
+63 silly lockFile d6124346-3230-0-33408282860182226-package tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/package
+64 silly lockFile d6124346-3230-0-33408282860182226-package tar:///var/folders/d3/ls1s6f9x1png_6_pct1dg0yc0000gn/T/npm-810-A6cpf2KA/1390750763230-0.33408282860182226/package
+65 silly lockFile caa88ea1-g-npm-stuwebfk-0-0-5-package-tgz tar:///Users/sskywing/.npm/stuwebfk/0.0.5/package.tgz
+66 silly lockFile caa88ea1-g-npm-stuwebfk-0-0-5-package-tgz tar:///Users/sskywing/.npm/stuwebfk/0.0.5/package.tgz
+67 silly lockFile e93a686b-ywing-npm-stuwebfk-0-0-5-package /Users/sskywing/.npm/stuwebfk/0.0.5/package
+68 verbose lock /Users/sskywing/.npm/stuwebfk/0.0.5/package /Users/sskywing/.npm/e93a686b-ywing-npm-stuwebfk-0-0-5-package.lock
+69 silly lockFile e93a686b-ywing-npm-stuwebfk-0-0-5-package /Users/sskywing/.npm/stuwebfk/0.0.5/package
+70 silly lockFile e93a686b-ywing-npm-stuwebfk-0-0-5-package /Users/sskywing/.npm/stuwebfk/0.0.5/package
+71 verbose tar unpack /Users/sskywing/.npm/stuwebfk/0.0.5/package.tgz
+72 silly lockFile 0e0679ef-ywing-npm-stuwebfk-0-0-5-package tar:///Users/sskywing/.npm/stuwebfk/0.0.5/package
+73 verbose lock tar:///Users/sskywing/.npm/stuwebfk/0.0.5/package /Users/sskywing/.npm/0e0679ef-ywing-npm-stuwebfk-0-0-5-package.lock
+74 silly lockFile caa88ea1-g-npm-stuwebfk-0-0-5-package-tgz tar:///Users/sskywing/.npm/stuwebfk/0.0.5/package.tgz
+75 verbose lock tar:///Users/sskywing/.npm/stuwebfk/0.0.5/package.tgz /Users/sskywing/.npm/caa88ea1-g-npm-stuwebfk-0-0-5-package-tgz.lock
+76 silly gunzTarPerm modes [ '755', '644' ]
+77 silly gunzTarPerm extractEntry package.json
+78 silly gunzTarPerm extractEntry index.js
+79 silly gunzTarPerm extractEntry .idea/.name
+80 silly gunzTarPerm extractEntry .idea/encodings.xml
+81 silly gunzTarPerm extractEntry .idea/misc.xml
+82 silly gunzTarPerm extractEntry .idea/modules.xml
+83 silly gunzTarPerm extractEntry .idea/scopes/scope_settings.xml
+84 silly gunzTarPerm extractEntry .idea/stuwebfk.iml
+85 silly gunzTarPerm extractEntry .idea/vcs.xml
+86 silly gunzTarPerm extractEntry .idea/workspace.xml
+87 silly gunzTarPerm extractEntry example/day01/httpServer.js
+88 silly gunzTarPerm extractEntry example/day01/public/a.txt
+89 silly gunzTarPerm extractEntry example/day01/public/b.html
+90 silly gunzTarPerm extractEntry example/day01/public/index.html
+91 silly gunzTarPerm extractEntry example/route/run.js
+92 silly gunzTarPerm extractEntry example/show_middle/middle01.js
+93 silly gunzTarPerm extractEntry example/show_middle/middle02.js
+94 silly gunzTarPerm extractEntry example/show_middle/run.js
+95 silly gunzTarPerm extractEntry example/test_method/run.js
+96 silly gunzTarPerm extractEntry example/test_method/public/page.html
+97 silly gunzTarPerm extractEntry lib/App.js
+98 silly gunzTarPerm extractEntry lib/params.js
+99 silly gunzTarPerm extractEntry lib/pathRegexp.js
+100 silly gunzTarPerm extractEntry lib/query.js
+101 silly gunzTarPerm extractEntry lib/static.js
+102 silly lockFile 0e0679ef-ywing-npm-stuwebfk-0-0-5-package tar:///Users/sskywing/.npm/stuwebfk/0.0.5/package
+103 silly lockFile 0e0679ef-ywing-npm-stuwebfk-0-0-5-package tar:///Users/sskywing/.npm/stuwebfk/0.0.5/package
+104 silly lockFile caa88ea1-g-npm-stuwebfk-0-0-5-package-tgz tar:///Users/sskywing/.npm/stuwebfk/0.0.5/package.tgz
+105 silly lockFile caa88ea1-g-npm-stuwebfk-0-0-5-package-tgz tar:///Users/sskywing/.npm/stuwebfk/0.0.5/package.tgz
+106 verbose chmod /Users/sskywing/.npm/stuwebfk/0.0.5/package.tgz 644
+107 verbose chown /Users/sskywing/.npm/stuwebfk/0.0.5/package.tgz [ 501, 20 ]
+108 silly lockFile 3a52ce78- .
+109 silly lockFile 3a52ce78- .
+110 silly publish { name: 'stuwebfk',
+110 silly publish   version: '0.0.5',
+110 silly publish   dependenciea: {},
+110 silly publish   description: 'test_method',
+110 silly publish   main: 'index.js',
+110 silly publish   directories: { example: 'example' },
+110 silly publish   scripts: { test: 'echo "Error: no test specified" && exit 1' },
+110 silly publish   repository: { type: 'git', url: 'https://github.com/gbalckfire/stuwebfk' },
+110 silly publish   keywords: [ 'stuwebfk' ],
+110 silly publish   author: { name: 'gaohong' },
+110 silly publish   license: 'BSD-2-Clause',
+110 silly publish   bugs: { url: 'https://github.com/gbalckfire/stuwebfk/issues' },
+110 silly publish   readme: 'ERROR: No README data found!',
+110 silly publish   _id: 'stuwebfk@0.0.5',
+110 silly publish   dist: { shasum: '9bbd4f036316f69a784e9e40c21d08face01f2dd' },
+110 silly publish   _from: '.' }
+111 error need auth auth and email required for publishing
+111 error need auth You need to authorize this machine using `npm adduser`
+112 error System Darwin 13.0.0
+113 error command "node" "/usr/local/bin/npm" "publish"
+114 error cwd /Users/sskywing/work_Dir/stuwebfk
+115 error node -v v0.10.20
+116 error npm -v 1.3.11
+117 error code ENEEDAUTH
+118 verbose exit [ 1, true ]
